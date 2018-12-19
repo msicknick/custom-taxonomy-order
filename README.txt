@@ -4,7 +4,7 @@
  Tags: taxonomy, custom, order, terms, reorder, ordering, 
  Donate link: https://paypal.me/MSicknick
  Requires at least: 4.0
- Tested up to: 4.9.8
+ Tested up to: 5.0.1
  Stable: trunk
  Requires PHP: 5.6
  License: GPLv2 or later
